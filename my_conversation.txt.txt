@@ -1,0 +1,226 @@
+USER: has simcorp ever ghosted candidates after taking first and second round of interview?
+BOT: Yes — there is evidence that SimCorp has sometimes been slow to respond to candidates, including after later-stage interviews. I would not call it a consistent company-wide “ghosting pattern,” though.
+
+I checked recent and older candidate reports:
+
+A 2026 Glassdoor report says a candidate completed a final interview in June 2026 and was still waiting almost four weeks later despite follow-ups.
+Another SimCorp candidate reported that their process took almost two months, including multiple interview/assessment stages, and that after being told they would receive a response within a week, they received neither a rejection nor a reply to their follow-up.
+On the other hand, there are also candidates reporting a straightforward three-interview process, and some report receiving offers quickly after the final interview.
+SimCorp's interview experience therefore appears to vary by role, location, hiring team and stage of the process.
+For YOUR situation
+
+Since you're going through the Senior Manager – Testing Services process and have already progressed through the earlier round, I would not interpret a delay automatically as rejection.
+
+At Senior Manager level, there can be additional things happening behind the scenes:
+
+Director feedback → hiring manager alignment → candidate comparison → headcount/budget approval → HR/recruiter → compensation approval → offer
+
+So even if the Director likes you, the recruiter may not immediately be able to give you an answer.
+
+One important thing
+
+If you finish the Director round and they say something like:
+
+"We'll get back to you."
+
+Don't panic if you don't hear anything for a few days.
+
+I'd give them 3–5 business days, then send a short, professional follow-up.
+
+If you tell me when your first round happened, when your second round is/was, and what the recruiter has told you so far, I can assess your specific situation and tell you whether the signals look positive, neutral, or concerning.
+USER: is simcorp trustworthy organisation?
+BOT: Yes. SimCorp is a legitimate and established organization, and I would consider it a trustworthy employer/business, with some important caveats about the employee experience.
+
+Why I would consider it trustworthy
+SimCorp has been around since 1971 and is headquartered in Copenhagen. It is an established provider of investment-management technology rather than a small or unknown IT company.
+In 2023, Deutsche Börse completed its acquisition of SimCorp, with Deutsche Börse acquiring approximately 94% of SimCorp shares initially and subsequently pursuing the remaining shares.
+SimCorp operates in the institutional investment-management/financial-technology space, supporting major financial organizations. That gives it a substantially different stability profile from a small startup or questionable outsourcing company.
+Current employee-review data is generally positive: Glassdoor currently shows 3.8/5 overall, 71% recommending SimCorp, with work-life balance and culture scoring relatively well.
+But I wouldn't say everything is perfect
+
+This is where I'd be realistic if you're considering joining as Senior Manager – Testing Services.
+
+Recent reviews show some recurring concerns:
+
+Good things employees mention
+
+Good work-life balance
+Good colleagues/culture
+Flexible working
+Stable organization
+Good benefits in some locations
+Strong product/domain exposure
+
+Concerns that come up
+
+Career progression can be slow or unclear
+Internal processes can sometimes be bureaucratic/slow
+Some employees mention organizational changes
+Some reviews criticize management alignment
+A few testing/QA reviews mention workload and stressful client engagements.
+
+Importantly, these are anonymous employee opinions, so I wouldn't treat any individual review as fact. The overall picture is much more mixed-positive than negative.
+
+For YOU specifically
+
+Considering the role you're interviewing for, I actually think SimCorp is worth taking seriously.
+
+You're not applying for a junior role where the main question is "Will this company give me good learning opportunities?"
+
+You're looking at a Senior Manager / Testing Services leadership position.
+
+The advantages for you could be:
+
+1. Stronger product-company positioning
+
+You'd be moving toward a global FinTech/product organization rather than staying purely in an IT-services delivery model.
+
+2. Financial-services domain
+
+SimCorp's investment-management domain is specialized. That can strengthen your profile for future leadership roles in FinTech, capital markets, asset management and financial technology.
+
+3. Global leadership exposure
+
+The organization works internationally, so a Senior Manager role can give you exposure to global stakeholders and potentially European leadership.
+
+4. Deutsche Börse ownership
+
+This is a significant positive from a corporate-stability perspective. SimCorp is now part of the Deutsche Börse Group rather than operating as an independent listed company.
+
+One thing I would investigate before accepting
+
+Given some employee comments around career progression and management, I would specifically ask the Director:
+
+"What does the career path look like for someone coming into this Senior Manager role, and how do you see this position evolving over the next two to three years?"
+
+And even more importantly:
+
+"What is the reason this position is open— is it a newly created role, a replacement, or part of an organizational change?"
+
+That second question is very important. The answer can tell you much more about the opportunity than Glassdoor reviews.
+
+My overall assessment
+Area	My view
+Company legitimacy	🟢 Very strong
+Financial/corporate stability	🟢 Strong
+Brand value	🟢 Strong in FinTech
+Product/domain	🟢 Excellent
+Work-life balance	🟢 Generally positive
+Culture	🟢 Generally positive
+Career growth	🟡 Investigate carefully
+Management experience	🟡 Depends heavily on team/leader
+Compensation	🟡 Need to negotiate
+Worth pursuing your interview?	🟢 Definitely
+
+So I wouldn't worry about SimCorp being an untrustworthy organization. The more relevant question for you is whether this particular Senior Manager role, reporting structure, compensation and growth path are good.
+
+And because you're already at the Director round, I would absolutely continue pursuing it rather than withdrawing based on the mixed employee reviews.
+USER: what are the working hours in simcorp?
+BOT: If you're asking specifically about SimCorp Noida and the Senior Manager – Testing Services role, the information I found is actually fairly positive.
+
+Working hours
+
+SimCorp's current job postings do not specify a fixed 9–6 or 10–7 schedule for the Senior Manager Testing Services role. Instead, they explicitly describe the role as having flexible working hours and a hybrid model. The current Senior Manager, Testing Services posting says employees are generally expected to work from the office 2 days per week and can work remotely on the other days.
+
+So I would expect something closer to:
+
+Normal working day: approximately 8–9 hours, with flexibility around start/end times.
+
+However, because your role is Senior Manager, Testing Services, there can be additional hours when:
+
+There is a critical production incident
+A major release is happening
+You're dealing with global stakeholders/clients
+An escalation requires your involvement
+
+The job description specifically includes managing escalations and communicating with clients/stakeholders during critical incidents, so some flexibility outside normal hours should be expected at senior level.
+
+Is it a 9 PM–6 AM type of job?
+
+I don't see evidence that your Senior Manager Testing Services position is a regular night-shift role.
+
+SimCorp does have some Noida positions explicitly designated as shifts—for example, a current Financial Data Analyst role specifies a US shift of 10 PM–7 AM IST.
+
+That distinction is important: if a role requires a shift, SimCorp appears to state it in the job posting. Your Senior Manager Testing Services posting does not state such a shift.
+
+Work-life balance
+
+This is one area where recent Noida employee feedback is encouraging. Glassdoor's current Noida page shows 4.1/5 for work-life balance, and recent reviews specifically mention good work-life balance.
+
+SimCorp itself also advertises flexible hours and hybrid working as part of its employee offering.
+
+For your interview
+
+If you're worried about working late because of European stakeholders, I'd ask the Director this very diplomatically:
+
+"Since this is a global role, could you tell me a little about the typical working pattern for the Testing Services leadership team in Noida? How much interaction is usually with Europe, and are there any regular late-evening meetings?"
+
+That's a very reasonable Senior Manager question and will give you much more useful information than asking simply, "What are the working hours?"
+
+My expectation for your role would be normal flexible daytime hours with occasional late calls/escalations, rather than a permanent shift.
+USER: how many rounds are expected in simcorp for senior manager- testing services position?
+BOT: For your specific Senior Manager – Testing Services role in Noida, SimCorp's official recruitment process gives a useful baseline: it describes 5 overall stages, but those are not necessarily 5 interview rounds. The stages are application → Talent Acquisition conversation → business case/assessment → final meeting with manager/future team members → offer. SimCorp also explicitly says the process can be shortened or have an additional step depending on the hiring team.
+
+What I would expect for your role
+
+Given that you've already had the first round and are now going into the Director/Senior Manager round, I would prepare for:
+
+Stage	Likely for you
+Recruiter/TA screening	✅ Likely already done
+First interview	✅ Done
+Director / senior leadership interview	🔥 Your current round
+Additional assessment/business case	🟡 Possible, but not guaranteed
+HR/compensation discussion	🟢 If selected
+
+So I would not automatically expect 4–5 interviews after your Director round.
+
+SimCorp's current Senior Manager, Testing Services job description is quite senior: it covers testing-service delivery, people leadership, stakeholder/client management, automation, metrics, compliance/security, and incident management. That makes the Director round particularly important.
+
+There is also candidate evidence that SimCorp processes can vary substantially. For example, one SimCorp candidate reported three interviews, while another reported five stages; Indeed currently has a candidate report saying "3 interviews usually and done."
+
+For YOUR situation, I'd prepare as if the Director round is the final substantive interview.
+
+That means Agata could be assessing:
+
+40% — Leadership
+
+Largest team you've led
+Managing managers
+Underperformers
+Developing leaders
+Difficult decisions
+
+25% — Stakeholders/clients
+
+Difficult client
+Conflict with senior stakeholder
+Release pressure
+Client escalation
+
+20% — Quality/technical leadership
+
+Automation strategy
+Quality metrics
+Defect leakage
+AI in testing
+CI/CD
+Production incident
+
+15% — Motivation & fit
+
+Why SimCorp?
+Why leave current company?
+Why Senior Manager?
+First 90 days
+What makes you different?
+One important point
+
+Don't assume that because this is called a "second round" there must be a third interview.
+
+SimCorp's own process says the final meeting is with the manager and/or future team members, and it explicitly says additional steps depend on the hiring team.
+
+If Agata is the Director who has final decision-making responsibility for this role, her interview could very well be the final substantive interview, followed by HR/TA and compensation if you are selected.
+
+And based on the current JD, this is a real leadership role, not simply a Test Manager position—the company expects the Senior Manager to own testing-service delivery, client satisfaction, people leadership, automation, metrics and incident management.
+
+So for your preparation right now: prepare to WIN the Director round, rather than preparing for another technical round that may not happen.

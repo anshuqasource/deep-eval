@@ -1,0 +1,2 @@
+user_input,FaithfulnessMetric,AnswerRelevancyMetric,ContextualPrecisionMetric,ContextualRecallMetric,ContextualRelevancyMetric
+I usually wear a fitted look in jeans - should I size down?,1.0,0.5,1.0,0.0,

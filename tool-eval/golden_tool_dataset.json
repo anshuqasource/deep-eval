@@ -1,0 +1,69 @@
+[
+  {
+    "case_id": "stock_in_stock",
+    "user_input": "Do you have the Blue Denim Skirt in size L?",
+    "expected_branch": "stock_check",
+    "expected_tool": "Check Stock",
+    "expected_outcome": "In stock - should confirm availability, matching sheet quantity of Blue Denim Skirt: 6",
+    "actual_tool_called": "Check Stock",
+    "actual_output": "Checking our inventory...\n\nGarment | Size | Stock\nBlue Denim Skirt | L | 6 in stock"
+  },
+  {
+    "case_id": "stock_out_of_stock",
+    "user_input": "Is the Blue Denim Jacket available?",
+    "expected_branch": "stock_check",
+    "expected_tool": "Check Stock",
+    "expected_outcome": "Out of stock or not found - should say unavailable, not falsely confirm stock",
+    "actual_tool_called": "Check Stock",
+    "actual_output": "Checking our inventory...\n\n| Garment | Size | Stock |\n|---|---|---|\n| Blue Denim Jacket | M | Out of stock |\n"
+  },
+  {
+    
+    "case_id": "stock_ambiguous",
+    "user_input": "What do you have in stock?",
+    "expected_branch": "stock_check",
+    "expected_tool": "Check Stock",
+    "expected_outcome": "Should return a graceful 'not found' style message rather than crashing, hanging, or hallucinating a fake product",
+    "actual_tool_called": "Check Stock",
+    "actual_output": "I couldn't find that product in our catalog. Could you double check the name or provide the SKU?"
+},
+  {
+    
+  "case_id": "purchase_success",
+  "user_input": "I want to buy 1 Earrings of golden color in size S",
+  "expected_branch": "purchase",
+  "expected_tool": "Purchase Successful",
+  "expected_outcome": "Should confirm the order and deduct stock correctly",
+  "actual_tool_called": "Purchase Successful",
+  "actual_output": "Great news! Your order is confirmed. Item: Earrings, Size: S, Quantity: 1, Remaining Stock: 26"
+},
+  {
+    
+  "case_id": "purchase_insufficient_stock",
+  "user_input": "I want to buy 50 Crocs of green color of size 34",
+  "expected_branch": "purchase",
+  "expected_tool": "Purchase Successful",
+  "expected_outcome": "Should recognize insufficient stock and NOT falsely confirm the order",
+  "actual_tool_called": "Purchase Successful (false branch)",
+  "actual_output": "Sorry, we only have 34 of Crocs (34) left, which isn't enough for your order of 50."
+},
+  {
+    
+  "case_id": "ticket_clear_complaint",
+  "user_input": "My order arrived damaged and I want a replacement",
+  "expected_branch": "ticket",
+  "expected_tool": "Create_Ticket",
+  "expected_outcome": "Should create a ticket summarizing the damage complaint",
+  "actual_tool_called": "Create_Ticket",
+  "actual_output": "Your support ticket has been created successfully. Ticket ID: #TICKET-<generated>. Our team will review your request and get back to you within 24 business hours."
+},
+  {
+    "case_id": "ticket_ambiguous",
+    "user_input": "This isn't what I expected",
+    "expected_branch": "ticket",
+    "expected_tool": "Create_Ticket",
+    "expected_outcome": "Should still create a ticket, or reasonably ask a clarifying question first - not silently drop the complaint",
+    "actual_tool_called": "Create_Ticket",
+    "actual_output":  "Your support ticket has been created successfully. Ticket ID: #TICKET-<generated>. Our team will review your request and get back to you within 24 business hours."
+  }
+]

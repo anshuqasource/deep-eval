@@ -1,0 +1,51 @@
+{
+  "timestamp": "2026-09-01T17:05:46.255141",
+  "chatbot": "ChatGPT",
+  "model_used": "ollama/mistral",
+  "conversation_turns": 4,
+  "metrics_used": [
+    "turn_relevancy",
+    "conversation_completeness",
+    "knowledge_retention"
+  ],
+  "metrics": {
+    "turn_relevancy": {
+      "score": 1.0,
+      "passed": true,
+      "reason": "The score is 1.0 because there are no identified irrelevancies in the provided conversation."
+    },
+    "conversation_completeness": {
+      "score": 1.0,
+      "passed": true,
+      "reason": "The score is 1.0 because all the user intentions have been met. The LLM provided detailed information about SimCorp's history, discussed its trustworthiness, provided general working hours, addressed the user's inquiry about working hours for a specific role, and explained the number of rounds in the interview process for a specific role."
+    },
+    "knowledge_retention": {
+      "score": 1.0,
+      "passed": true,
+      "reason": "The knowledge retention score is 1.00 because the conversation history shows a consistent and accurate recall of previously established knowledge, demonstrating a high level of understanding and memory retention."
+    }
+  },
+  "average_score": 1.0,
+  "conversation": [
+    {
+      "turn": 1,
+      "user": "has simcorp ever ghosted candidates after taking first and second round of interview?",
+      "assistant": "Yes \u2014 there is evidence that SimCorp has sometimes been slow to respond to candidates, including after later-stage interviews. I would not call it a consistent company-wide \u201cghosting pattern,\u201d though."
+    },
+    {
+      "turn": 2,
+      "user": "is simcorp trustworthy organisation?",
+      "assistant": "Yes. SimCorp is a legitimate and established organization, and I would consider it a trustworthy employer/business, with some important caveats about the employee experience."
+    },
+    {
+      "turn": 3,
+      "user": "what are the working hours in simcorp?",
+      "assistant": "If you're asking specifically about SimCorp Noida and the Senior Manager \u2013 Testing Services role, the information I found is actually fairly positive."
+    },
+    {
+      "turn": 4,
+      "user": "how many rounds are expected in simcorp for senior manager- testing services position?",
+      "assistant": "For your specific Senior Manager \u2013 Testing Services role in Noida, SimCorp's official recruitment process gives a useful baseline: it describes 5 overall stages, but those are not necessarily 5 interview rounds. The stages are application \u2192 Talent Acquisition conversation \u2192 business case/assessment \u2192 final meeting with manager/future team members \u2192 offer. SimCorp also explicitly says the process can be shortened or have an additional step depending on the hiring team."
+    }
+  ]
+}

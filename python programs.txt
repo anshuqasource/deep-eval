@@ -1,0 +1,29 @@
+s="madam"
+reverse=" "
+for ch in s:
+reverse=ch+reverse
+if(s==reverse)
+
+
+nums=[10,30,45]
+first=0
+second=0
+if n>first:
+second=first
+first=n
+elif n>seconds and n!=first
+second=n
+
+
+duplicates
+n=[1,2,3,4,3,4,5,6]
+seen=[]
+dup=[]
+for n in nums:
+if n in seen:
+if n not in dup:
+dup.append(n)
+else:
+seen.append(n)
+
+
